@@ -1,0 +1,21 @@
+{
+  "name": "charting-stars",
+  "version": "1.0.0",
+  "description": "Calculate birth charts and the current sky. Request a saved written reading when you choose to buy one.",
+  "author": {
+    "name": "Charting Stars",
+    "email": "hello@chartingstars.com",
+    "url": "https://chartingstars.com"
+  },
+  "homepage": "https://chartingstars.com/connector",
+  "license": "LicenseRef-Proprietary",
+  "keywords": [
+    "astrology",
+    "birth-chart",
+    "horoscope"
+  ],
+  "skills": [
+    "./skills/",
+    "./claude-skills/"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "charting-stars": {
+      "type": "http",
+      "url": "https://chartingstars.com/api/mcp?via=claude"
+    }
+  }
+}
